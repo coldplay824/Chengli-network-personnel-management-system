@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GEN">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/GEN.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
